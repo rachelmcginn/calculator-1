@@ -1,35 +1,8 @@
-"""Functions for common math operations."""
-
-
-def add(num1, num2):
-    """Return the sum of the two inputs."""
-
-    return 10
-
-
-def subtract(num1, num2):
-    """Return the second number subtracted from the first."""
-
-
-def multiply(num1, num2):
-    """Multiply the two inputs together."""
-
-
-def divide(num1, num2):
-    """Divide the first input by the second and return the result."""
-
-
-def square(num1):
-    """Return the square of the input."""
-
-
-def cube(num1):
-    """Return the cube of the input."""
-
-
-def power(num1, num2):
-    """Raise num1 to the power of num2 and return the value."""
-
-
-def mod(num1, num2):
-    """Return the remainder of num1 / num2."""
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URL</key>
+	<string>https://cdn.discordapp.com/attachments/800153201068081174/800161075160416256/arithmetic.py</string>
+</dict>
+</plist>
